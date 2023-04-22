@@ -1,0 +1,9 @@
+{
+    "EXCEL_FILE": "./input/data.xlsx",
+    "TOML_FILE": "./output/output.toml",
+    "SHEET_NAME": "Sheet1",
+    "NAME_COLUMN": "B",
+    "AGE_COLUMN": "C",
+    "TABLE": "user",
+    "TABLE_ARRAY": "user.person"
+}

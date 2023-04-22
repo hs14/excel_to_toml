@@ -1,0 +1,10 @@
+[user]
+[[user.person]]
+Name = Sato
+Age = 10
+[[user.person]]
+Name = Suzuki
+Age = 20
+[[user.person]]
+Name = Takahashi
+Age = 30
