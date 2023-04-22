@@ -1,1 +1,2 @@
-# excel_to_toml
+# 使い方
+node index.js config/config.json
